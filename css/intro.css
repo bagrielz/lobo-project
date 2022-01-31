@@ -37,7 +37,6 @@
   .intro {
     grid-template-columns: 1fr 1fr;
   }
-
   .intro h1 {
     font-size: 3.5rem;
   }
@@ -47,15 +46,12 @@
   .intro {
     gap: 4rem;
   }
-
   .intro h1 {
     font-size: 3rem;
   }
-
   .intro h1::before {
     display: none;
   }
-
   .intro p {
     font-size: 1rem;
   }
@@ -66,7 +62,6 @@
     grid-template-columns: 1fr;
     justify-items: center;
   }
-
   .intro img {
     display: none;
   }

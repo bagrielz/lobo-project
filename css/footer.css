@@ -42,11 +42,9 @@
     grid-template-columns: 1fr;
     gap: 2.5rem;
   }
-
   .footer-text {
     font-size: 1.25rem;
   }
-
   .footer-list li {
     font-size: 1.25rem;
   }
