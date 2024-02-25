@@ -1,24 +1,22 @@
-<h1 align="center">Portfólio Lobo</h1>
+<h1 align="center">
+    <img src="./img/marca.svg" alt="Lobo" />
+</h1>
 
-<img src="./public/github1.gif">
-
-<h3 align="center">
-    <a href="https://rocketmusics.herokuapp.com/">Acessar a demonstração</a>
-<h3>
-
-# Índice
+## Índice
 
 - [Sobre](#-sobre)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
 ---
 
-# Tecnologias
-
-- ## 🔖&nbsp; Sobre
+## 🔖 Sobre
 
 Este projeto é um portfólio que teve como objetivo trabalhar os conceitos básicos de HTML e CSS (estrutura semântica, CSS Grid Layout, CSS Flexbox entre outros) através do curso de HTML e CSS para Iniciantes da Origamid. Além disso, esse site foi um start para compreender e praticar todo o aprendizado a fim de construir um projeto mais complexo chamado **Bikcraft**.
+
+<h3 align="center">
+    <a href="https://rocketmusics.herokuapp.com/">Acessar a demonstração</a>
+<h3>
 
 ---
 
