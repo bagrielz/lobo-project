@@ -27,7 +27,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🗂 Como baixar o projeto
 
-```
+```bash
     # Clonar o repositório
     $ git clone https://github.com/bagrielz/lobo-project
 
@@ -37,4 +37,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-Desenvolvido 💜 por Gabriel Stênio, direitos do porjeto **Origamid**
+Desenvolvido 💜 por Gabriel Stênio, direitos do projeto **Origamid**
