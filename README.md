@@ -1,5 +1,11 @@
 <h1 align="center">Portfólio Lobo</h1>
 
+<img src="./public/github1.gif">
+
+<h3 align="center">
+    <a href="https://rocketmusics.herokuapp.com/">Acessar a demonstração</a>
+<h3>
+
 # Índice
 
 - [Sobre](#-sobre)
