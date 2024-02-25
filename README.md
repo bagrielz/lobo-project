@@ -13,7 +13,7 @@
 Este projeto é um portfólio que teve como objetivo trabalhar os conceitos básicos de HTML e CSS (estrutura semântica, CSS Grid Layout, CSS Flexbox entre outros) através do curso de HTML e CSS para Iniciantes da Origamid. Além disso, esse site foi um start para compreender e praticar todo o aprendizado a fim de construir um projeto mais complexo chamado **Bikcraft**.
 
 <h3 align="center">
-    <a href="https://rocketmusics.herokuapp.com/">Acessar a demonstração</a>
+    <a href="https://bagrielz.github.io/lobo-project/">Acessar a demonstração</a>
 <h3>
 
 ---
