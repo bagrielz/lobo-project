@@ -1,8 +1,6 @@
-<h1 align="center">
-    <img src="./img/marca.svg" alt="Lobo" />
-</h1>
+<img src="./public/logo.png" alt="Lobo" />
 
-## Índice
+## 📌 Índice
 
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
@@ -41,4 +39,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-Desenvolvido 💜 por Gabriel Stênio, direitos do projeto **Origamid**
+Desenvolvido 🤘 por Gabriel Stênio, direitos do projeto **Origamid**
